@@ -11,3 +11,10 @@ if __name__ == '__main__':
     # probabilitate mutatii
 
     # gen. pop. -> ___ fitness -> nr epoci
+
+    populatie = 4000
+    iteratii = 500
+    gen_curenta = []
+    gen_urmatoare = []
+    for i in range(iteratii):
+        pass
