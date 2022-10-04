@@ -8,5 +8,6 @@ if __name__ == '__main__':
     # functie imperechere
     # functie generare individ
     # functie mutatie
+    # probabilitate mutatii
 
     # gen. pop. -> ___ fitness -> nr epoci
